@@ -4,4 +4,5 @@ Member:
 Min Khant Soe
 Pyae Sone
 
-Dataset: https://github.com/PolyAI-LDN/task-specific-datasets/tree/master/span_extraction/restaurant8k
+Dataset: restaurant8k
+https://github.com/PolyAI-LDN/task-specific-datasets/tree/master/span_extraction/restaurant8k
