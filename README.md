@@ -6,4 +6,4 @@ Team Member:
  - Min Khant Soe
  - Pyae Sone
 
-In this project, we will create a simple chatbot with BERT pretraind model and try to finetune for improvement.
+In this project, we will create a simple chatbot with BERT pretrained model and try to finetune for improvement.
