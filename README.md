@@ -7,3 +7,5 @@ Team Member:
  - Pyae Sone
 
 In this project, we will create a simple chatbot with BERT pretrained model and try to finetune for improvement.
+
+Final ipynb are in code/IntentDetection and code/QuestionAnswering folders respectively. 
